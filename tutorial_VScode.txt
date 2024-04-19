@@ -6,3 +6,22 @@ O VSCode, ou Visual Studio Code, é um ambiente de desenvolvimento integrado (ID
 É uma ferramenta muito popular entre desenvolvedores de software devido à sua interface amigável, sua grande variedade de extensões que facilitam a programação em várias linguagens, e sua eficiência em termos de desempenho. 
 O VSCode suporta uma ampla gama de linguagens de programação e oferece recursos como realce de sintaxe, conclusão automática de código, depuração integrada, controle de versão e muito mais.
 Ele é conhecido por ser altamente customizável e por sua comunidade ativa, que contribui com muitas extensões e temas para personalização.
+
+Passo a passo download:
+
+Acesse o site oficial: 
+- Abra o seu navegador da web e vá para o site oficial do Visual Studio Code em https://code.visualstudio.com.
+
+Escolha seu sistema operacional:
+
+- Na página inicial do site, você verá botões de download para diferentes sistemas operacionais, como Windows, macOS e Linux. Clique no botão correspondente ao seu sistema operacional.
+
+Inicie o download:
+- Após clicar no botão, o download do instalador do VSCode começará automaticamente.
+
+Execute o instalador: 
+- Quando o download estiver concluído, abra o arquivo de instalação que você baixou.
+
+No Windows, geralmente é um arquivo .exe.
+No macOS, é um arquivo .dmg.
+No Linux, pode ser um arquivo .deb ou .rpm, dependendo da sua distribuição.
