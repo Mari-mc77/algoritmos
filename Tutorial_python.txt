@@ -28,3 +28,16 @@ Passo a Passo fazer o download:
 
 6 - Execute o instalador: Após o download ser concluído, localize o arquivo baixado e execute-o dando um duplo clique. Isso iniciará o instalador do Python.
 
+
+Passo a Passo instalação:
+
+
+1 - Configurações de instalação: Durante a instalação, você será solicitado a fazer algumas escolhas, como adicionar o Python ao PATH do sistema (recomendado), escolher o diretório de instalação e selecionar os componentes a serem instalados. Normalmente, as configurações padrão funcionam bem para a maioria dos usuários, então você pode simplesmente seguir as instruções do instalador.
+
+2 - Conclua a instalação: Após fazer suas seleções, clique em "Instalar" e aguarde o término da instalação. Isso geralmente leva apenas alguns minutos.
+
+3 - Verifique a instalação: Após a conclusão da instalação, você pode verificar se o Python foi instalado corretamente abrindo um terminal (no Windows, você pode usar o Prompt de Comando ou PowerShell) e digitando python --version ou python3 --version, dependendo do sistema operacional e das configurações de instalação. Isso deve exibir a versão do Python que você acabou de instalar.
+
+E pronto! Você instalou com sucesso o Python em seu sistema e está pronto para começar a programar!
+
+
