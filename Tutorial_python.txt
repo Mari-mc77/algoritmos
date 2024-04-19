@@ -1,1 +1,13 @@
 Iniciando tutorial
+
+Explicando o que é Python:
+
+- Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. 
+
+Foi criada por Guido van Rossum e lançada pela primeira vez em 1991. 
+
+Python é conhecida por sua sintaxe simples e legibilidade, o que a torna uma ótima opção para iniciantes em programação, bem como para desenvolvedores experientes.
+
+É uma linguagem versátil, utilizada em uma ampla variedade de domínios, desde desenvolvimento web e aplicativos desktop até análise de dados, inteligência artificial, aprendizado de máquina e automação de tarefas.
+
+Python possui uma vasta biblioteca padrão e uma comunidade ativa de desenvolvedores que contribuem com pacotes e ferramentas adicionais, o que a torna ainda mais poderosa e flexível.
