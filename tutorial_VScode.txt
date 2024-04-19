@@ -1,1 +1,8 @@
 Iniciando tutorial
+
+O que é VScode:
+
+O VSCode, ou Visual Studio Code, é um ambiente de desenvolvimento integrado (IDE) desenvolvido pela Microsoft. 
+É uma ferramenta muito popular entre desenvolvedores de software devido à sua interface amigável, sua grande variedade de extensões que facilitam a programação em várias linguagens, e sua eficiência em termos de desempenho. 
+O VSCode suporta uma ampla gama de linguagens de programação e oferece recursos como realce de sintaxe, conclusão automática de código, depuração integrada, controle de versão e muito mais.
+Ele é conhecido por ser altamente customizável e por sua comunidade ativa, que contribui com muitas extensões e temas para personalização.
