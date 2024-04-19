@@ -25,3 +25,19 @@ Execute o instalador:
 No Windows, geralmente é um arquivo .exe.
 No macOS, é um arquivo .dmg.
 No Linux, pode ser um arquivo .deb ou .rpm, dependendo da sua distribuição.
+
+Passo a Passo instalação:
+
+Siga as instruções de instalação:
+- O processo de instalação é bastante simples e guiado por assistente. Basta seguir as instruções na tela, como aceitar os termos de serviço, escolher a pasta de instalação e iniciar a instalação.
+
+Aguarde a conclusão da instalação:
+- Depois de iniciar o processo de instalação, aguarde alguns instantes até que o Visual Studio Code seja instalado em seu sistema.
+
+Inicie o Visual Studio Code:
+- Uma vez concluída a instalação, você pode iniciar o Visual Studio Code a partir do menu de aplicativos do seu sistema operacional ou do ícone na área de trabalho.
+
+Configuração inicial:
+- Ao iniciar o VSCode pela primeira vez, você pode ser solicitado a instalar algumas extensões recomendadas ou a configurar suas preferências iniciais. Você pode seguir as instruções na tela ou personalizar o ambiente conforme desejar.
+
+- Depois de seguir esses passos, você terá o Visual Studio Code instalado e pronto para ser usado em seu sistema!
