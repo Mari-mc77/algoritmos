@@ -1,0 +1,1 @@
+A pasta algoritmo guarda todos os projetos e trabalhos feitos durante as aulas do Senai, organizados por temas, compartilhados por links no github, e alguns materiais sobre a aula como por exemplo: tutoriais para instalar o python e vscode.
